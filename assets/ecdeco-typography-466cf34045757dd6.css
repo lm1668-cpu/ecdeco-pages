@@ -1,0 +1,141 @@
+/* ECDECO readable typography layer — applied after the archived visual system. */
+:root {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+/* Keep display titles elegant; bring operational and descriptive copy to a comfortable reading scale. */
+.button,
+.text-link,
+.next-project a,
+.consultation-hero aside a {
+  font-size: clamp(15px, 1.05vw, 16px);
+}
+
+.eyebrow,
+.page-intro__eyebrow,
+.service-detail__heading > p,
+.service-detail__kicker,
+.consultation-hero aside > span,
+.footer-kicker,
+.project-image-note > span,
+.project-hero__visual > span,
+.hero__frame,
+.project-card__archive,
+.project-card__number,
+.faq-section summary > span,
+.service-item > span,
+.process-page article > span,
+.service-detail__heading > span,
+.principles span {
+  font-size: clamp(12px, 0.95vw, 14px);
+  letter-spacing: 0.11em;
+  line-height: 1.55;
+}
+
+.hero__copy > p,
+.manifesto p,
+.detail-feature__copy > p,
+.faq-section__intro p,
+.page-intro p,
+.project-story > p,
+.service-detail__lead,
+.consultation-hero > div > p,
+.consultation-hero aside p,
+.process-page p,
+.principles p,
+.privacy-content p,
+.contact-grid p:not(.contact-large),
+.footer-brand > p:last-child {
+  font-size: clamp(16px, 1.2vw, 18px);
+  line-height: 1.78;
+}
+
+.project-card__location,
+.project-card__type,
+.project-meta,
+.project-index__note p,
+.project-gallery__head > p,
+.project-gallery__item figcaption,
+.project-image-note p,
+.service-detail li,
+.service-detail__fit > p:last-child,
+.faq-section details > p,
+.experience-banner span,
+.footer-links,
+.footer-bottom {
+  font-size: clamp(15px, 1.05vw, 17px);
+  line-height: 1.7;
+}
+
+.project-card__view,
+.mobile-menu__contact > span,
+.mobile-menu__contact a,
+.privacy-date {
+  font-size: clamp(13px, 0.95vw, 15px);
+  line-height: 1.55;
+}
+
+.inquiry-form label,
+.inquiry-form legend,
+.inquiry-form input:not([type=checkbox]),
+.inquiry-form select,
+.inquiry-form textarea,
+.service-checks span,
+.consent,
+.file-field input,
+.file-field small {
+  font-size: clamp(15px, 1.05vw, 17px);
+}
+
+/* Navigation remains compact without falling into the sub-12px range. */
+.desktop-nav a,
+.language-link {
+  font-size: clamp(14px, 1.05vw, 16px);
+}
+
+@media (max-width: 900px) {
+  .language-link {
+    font-size: 13px;
+  }
+
+  .menu-toggle {
+    font-size: 13px;
+    letter-spacing: 0.055em;
+  }
+
+  .mobile-menu__links a {
+    font-size: clamp(2.05rem, 9.2vw, 2.5rem);
+    line-height: 1.06;
+  }
+
+  .project-hero__copy h1 {
+    font-size: clamp(2.9rem, 11.5vw, 3.35rem);
+    line-height: 1.12;
+  }
+
+  .project-card__location,
+  .project-card__type {
+    font-size: 15px;
+    letter-spacing: 0.035em;
+  }
+
+  .project-gallery__item figcaption {
+    font-size: 16px;
+    line-height: 1.72;
+  }
+
+  .project-gallery__head > p,
+  .project-index__note p,
+  .footer-bottom {
+    font-size: 15px;
+  }
+}
+
+@media (min-width: 901px) and (max-width: 1180px) {
+  .project-gallery__item figcaption,
+  .project-gallery__head > p,
+  .project-index__note p {
+    font-size: 15px;
+  }
+}

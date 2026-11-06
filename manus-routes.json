@@ -1,0 +1,132 @@
+{
+  "routes": [
+    {
+      "path": "/en/",
+      "title": "ECDECO | Hong Kong Residential Design Studio &amp; Projects"
+    },
+    {
+      "path": "/en/consultation/",
+      "title": "Start Your Residential Design Project in Hong Kong | ECDECO"
+    },
+    {
+      "path": "/en/contact/",
+      "title": "Contact ECDECO | Begin a Hong Kong Home Project Conversation"
+    },
+    {
+      "path": "/en/our-approach/",
+      "title": "The ECDECO Way | A Considered Approach to Residential Design"
+    },
+    {
+      "path": "/en/privacy/",
+      "title": "Privacy Policy | Enquiry &amp; Website Data | ECDECO"
+    },
+    {
+      "path": "/en/process/",
+      "title": "Hong Kong Residential Design Process | ECDECO"
+    },
+    {
+      "path": "/en/projects/",
+      "title": "Hong Kong Residential Design Portfolio | ECDECO"
+    },
+    {
+      "path": "/en/projects/left-coast-southside/",
+      "title": "Marina South Residence | Rooftop &amp; Joinery | ECDECO"
+    },
+    {
+      "path": "/en/projects/mount-vienna/",
+      "title": "MOUNT VIENNA Residence | Living, Terrace, Study &amp; Bedroom | ECDECO"
+    },
+    {
+      "path": "/en/projects/st-georges-mansions-t2/",
+      "title": "ST. GEORGE’S MANSIONS T2 | Oriental Tea Setting | ECDECO"
+    },
+    {
+      "path": "/en/projects/st-georges-mansions-t3/",
+      "title": "ST. GEORGE’S MANSIONS T3 Ho Man Tin Residence | Living, Wine Joinery &amp; Dressing Room | ECDECO"
+    },
+    {
+      "path": "/en/projects/st-georges-mansions/",
+      "title": "ST. GEORGE’S MANSIONS T1 | Wine Joinery &amp; Delivery | ECDECO"
+    },
+    {
+      "path": "/en/projects/the-paxton/",
+      "title": "THE PAXTON Kowloon City Residence | Living, Joinery &amp; Bedroom | ECDECO"
+    },
+    {
+      "path": "/en/projects/tytam/",
+      "title": "Mont Rouge Residence｜Harbour Living &amp; Bespoke Joinery｜ECDECO"
+    },
+    {
+      "path": "/en/projects/ultima/",
+      "title": "Ultima Duplex | Living, Stair Hall &amp; Storage | ECDECO"
+    },
+    {
+      "path": "/en/services/",
+      "title": "Residential Design &amp; Fit-Out Services | ECDECO"
+    },
+    {
+      "path": "/zh-hk/",
+      "title": "迪高室內設計 ECDECO｜香港住宅設計、精選作品與整合服務"
+    },
+    {
+      "path": "/zh-hk/consultation/",
+      "title": "預約香港住宅設計諮詢｜提交項目資料｜迪高室內設計 ECDECO"
+    },
+    {
+      "path": "/zh-hk/contact/",
+      "title": "聯絡香港住宅設計團隊｜初步項目查詢｜迪高室內設計 ECDECO"
+    },
+    {
+      "path": "/zh-hk/our-approach/",
+      "title": "迪高理念｜以生活為本的住宅設計方法、細節與長久使用｜ECDECO"
+    },
+    {
+      "path": "/zh-hk/privacy/",
+      "title": "ECDECO 私隱政策說明｜查詢、附件及網站資料處理｜迪高室內設計"
+    },
+    {
+      "path": "/zh-hk/process/",
+      "title": "香港住宅室內設計及工程合作流程｜由項目了解至交付｜ECDECO"
+    },
+    {
+      "path": "/zh-hk/projects/",
+      "title": "香港住宅室內設計案例｜精選作品集與空間故事｜迪高室內設計 ECDECO"
+    },
+    {
+      "path": "/zh-hk/projects/left-coast-southside/",
+      "title": "南區左岸景觀住宅室內設計｜客餐廳、天台及訂製傢俬｜迪高室內設計"
+    },
+    {
+      "path": "/zh-hk/projects/mount-vienna/",
+      "title": "MOUNT VIENNA 住宅室內設計｜客廳、戶外平台、書房及睡房｜迪高室內設計"
+    },
+    {
+      "path": "/zh-hk/projects/st-georges-mansions-t2/",
+      "title": "ST. GEORGE’S MANSIONS T2 當代東方住宅設計｜茶席、石材及訂製傢俬｜迪高室內設計"
+    },
+    {
+      "path": "/zh-hk/projects/st-georges-mansions-t3/",
+      "title": "ST. GEORGE’S MANSIONS T3 何文田住宅室內設計｜客飯廳、酒櫃及衣帽間｜迪高室內設計"
+    },
+    {
+      "path": "/zh-hk/projects/st-georges-mansions/",
+      "title": "ST. GEORGE’S MANSIONS T1 大宅室內設計｜訂製酒櫃、衣帽間及工程統籌｜迪高室內設計"
+    },
+    {
+      "path": "/zh-hk/projects/the-paxton/",
+      "title": "THE PAXTON 九龍城住宅室內設計｜客廳、展示櫃及睡房｜迪高室內設計"
+    },
+    {
+      "path": "/zh-hk/projects/tytam/",
+      "title": "緹山維港景觀住宅室內設計｜客飯廳、衣帽間及訂製酒櫃｜迪高室內設計"
+    },
+    {
+      "path": "/zh-hk/projects/ultima/",
+      "title": "天鑄何文田複式住宅室內設計｜客廳、樓梯及訂製收納｜迪高室內設計"
+    },
+    {
+      "path": "/zh-hk/services/",
+      "title": "香港住宅設計與工程整合服務｜空間、訂製傢俬及軟裝｜ECDECO"
+    }
+  ]
+}
